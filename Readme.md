@@ -83,7 +83,7 @@ export const Rn_Rating_Component_Example = () => {
   return (
     <Rating
       maxrating={5}
-      onChangeRate={setrate}
+      onChangeRate={setRate}
       defaultrate={rate}
       isurlpresent={true}
       filledurl=""
