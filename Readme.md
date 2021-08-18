@@ -118,6 +118,6 @@ Please adhere to this project's `code of conduct`.
   
 ## Support
 
-For support, email raghavyuva@gmail.com 
+For support, create an issue
 
   
